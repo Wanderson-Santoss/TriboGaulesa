@@ -1,0 +1,32 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+.sectionTitle {
+    font-family: "Protest Revolution", sans-serif;
+    color: blue;
+}
+
+header, section{
+    background-color: rgb(245, 245, 228);
+}
+
+img:hover{
+    top:-2px;box-shadow:0 2px 2px #666;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+form textarea{
+    resize: none;
+    height: 100px;
+}
+.textColored{
+    color: rgb(4, 0, 255);
+}
